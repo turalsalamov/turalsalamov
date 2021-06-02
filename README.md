@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turalsalamov.
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning penetration testing and reverse engineering.
 - 💞️ I’m looking to collaborate on projects that are about cybersecurity.
 
