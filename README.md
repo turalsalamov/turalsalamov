@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that are about cyber security and artificial intelligence.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turalsalamov&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turalsalamov&count_private=true&show_icons=true&theme=dark)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
