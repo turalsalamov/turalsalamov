@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @turalsalamov.
-- 👀 I’m interested in cyber security and artificial intelligence.
-- 🌱 I’m currently improving my skills in cyber security and artificial intelligence.
-- 💞️ I’m looking to collaborate on projects that are about cyber security and artificial intelligence.
+- 👀 I’m interested in fun technical stuff.
+- 🌱 I’m currently a cyber security master student.
+- 💞️ I’m looking to collaborate on opensource projects.
+- 📤 You can reach me via email: turalsalamov109@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turalsalamov&count_private=true&show_icons=true&theme=dark)
