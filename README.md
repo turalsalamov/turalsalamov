@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turalsalamov.
-- 👀 I’m interested in fun technical stuff.
+- 👀 I’m interested in low level, security and artificial intelligence projects.
 - 🌱 I’m currently a cyber security master student.
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📤 You can reach me via email: turalsalamov109@gmail.com
